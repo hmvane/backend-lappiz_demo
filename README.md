@@ -22,13 +22,11 @@ La solución fue diseñada con una arquitectura modular para facilitar mantenimi
 
 ##  Estructura del proyecto
 
-```id="w0d0m7"
 app/
 ├── main.py          # Punto de entrada de la aplicación
 ├── routes/          # Definición de endpoints
 ├── schemas/         # Modelos de datos (validación con Pydantic)
 ├── core/            # Lógica interna (persistencia JSON)
-```
 
 ### Principios aplicados:
 
@@ -41,7 +39,6 @@ Código limpio y mantenible
 
 ### 1. Clonar repositorio
 
- id="qwe4lm"
 git clone https://github.com/hmvane/backend-lappiz_demo.git
 cd backend-lappiz_demo
 
