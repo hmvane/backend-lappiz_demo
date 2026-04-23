@@ -42,8 +42,8 @@ Código limpio y mantenible
 ### 1. Clonar repositorio
 
  id="qwe4lm"
-git clone https://github.com/hmvane/backend.git
-cd backend
+git clone https://github.com/hmvane/backend-lappiz_demo.git
+cd backend-lappiz_demo
 
 ### 2. Crear entorno virtual
 
